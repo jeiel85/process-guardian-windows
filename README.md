@@ -86,7 +86,7 @@
 ## 📥 다운로드
 
 GitHub Releases에서 최신 버전을 다운로드하세요:
-https://github.com/jeiel85/process-guardian/releases
+https://github.com/jeiel85/process-guardian-windows/releases
 
 **ProcessGuardian.exe** (~65MB, Self-contained)
 - .NET 런타임无需설치
